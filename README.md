@@ -50,4 +50,4 @@ Python · `requests` · X API v2 · SQLite (stdlib)
 ### 📬 Want it customized?
 
 Team review flow, scheduled posting, multi-account routing — I build these to order.
-**DM [@SaulGoodManC99](https://x.com/SaulGoodManC99)** · 50% deposit, settled in USDT.
+**DM [@WebhookWizard](https://x.com/WebhookWizard)** · 50% deposit, settled in USDT.
